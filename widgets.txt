@@ -1,0 +1,12 @@
+[{
+   "widget_name":"Stock Widget",
+   "widget_package":"com.whatsapp",
+   "widget_activity":"com.whatsapp.widget.hidechats.ActivitySettings",
+   "widget_download":"MspMods Widget"
+},
+{
+   "widget_name":"Hide Chats Widget",
+   "widget_package":"com.whatsapp.widget.hidechats",
+   "widget_activity":"com.whatsapp.widget.hidechats.ActivitySettings",
+   "widget_download":"MspMods Widget"
+}]

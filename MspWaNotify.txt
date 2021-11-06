@@ -1,0 +1,9 @@
+{
+ "type":"banner",
+ "banner_url":"https://telegra.ph/MSP-WHATSAPP-11-06",
+ "title":"Nova função 🚀",
+ "description":"Hey $name you have been chosen to test a new function that was added in WhatsApp but few know\n\nCheck out how to use it below :)",
+ "button_url":"test now",
+ "url":"https://youtube.com/channel/UCPW2S5FfjiG9XeDdPmcSj2Q",
+ "id":"ad0101010o1"
+}

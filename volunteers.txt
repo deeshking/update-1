@@ -1,0 +1,8 @@
+[{#n
+   "name":"Mr.King",
+   "number":"https://wa.me/+94782390183"
+},
+{
+   "name":"Mr.King",
+   "number":"https://wa.me/+94782390183"
+}]

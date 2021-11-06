@@ -1,0 +1,9 @@
+{
+ "version":"8.72",
+ "status":"beta",
+ "title":"Update available❗",
+ "description":"A new bug fix update is available - tap 'Update' wait for it to download and install. (no need to uninstall your version - just install over the top)\n\nBugs fixed\n• Error using bottom bar styles\n• Random error opening conversation\n• FAB error ✂️ showing in Calls tab\ n• The 'Conversations' 'Status' and 'Calls' tabs no longer change color after archiving a conversation\n• Errors in the 'Forward Messages' tab\n• The 'New Unseen Status' indicator is now smaller.",
+ "download":"https://youtube.com/channel/UCPW2S5FfjiG9XeDdPmcSj2Q",
+ "users_premium":"C776A123 C287A912 C24A2 C55A894 C55A711 C58A219 C27A865 C0A281 C465A991 C0A281 C36A87 C84A8 C135A602 C742A384 C65A552 C41A688 C64A163 C106A491 C2A749",
+ "force":"true"
+}

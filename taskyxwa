@@ -1,0 +1,12 @@
+{
+  "id":"29039",
+  "title":"Install Spotify",
+  "description":"This task is simple.
+Tap 'Download Spotify' button and after downloading install the app on your phone and tap 'Scan task'. 
+
+If everything goes right you'll earn your points 🍃",
+  "stars":"700",
+  "url":"https://youtube.com/channel/UCPW2S5FfjiG9XeDdPmcSj2Q",
+  "verify":"com.spotify",
+  "button":"DOWNLOAD SPOTIFY"
+}

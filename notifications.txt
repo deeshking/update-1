@@ -1,0 +1,106 @@
+[
+{
+   "title":"Follow on Instagram",
+   "description":"Do you use Instagram? Follow my Instagram =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"maybe later",
+   "ok_toast":" I'll follow back =)",
+   "cancell_toast":" Okay, I remember you in a little while, ok?",
+   "is_web":"https://instagram.com/king_dishuu?utm_medium=copy_link",
+   "id":"insta_",
+   "cancelable":"false"
+},
+{
+   "title":"Follow on Instagram",
+   "description":"Do you use Instagram? Follow my Instagram =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"maybe later",
+   "ok_toast":" I'll follow back =)",
+   "cancell_toast":" Okay, I remember you in a little while, ok?",
+   "is_web":"https://instagram.com/king_dishuu?utm_medium=copy_link",
+   "id":"insta2_",
+   "cancelable":"false"
+},
+{
+   "title":"Follow on Instagram",
+   "description":"Do you use Instagram? Follow my Instagram =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"maybe later",
+   "ok_toast":" I'll follow back =)",
+   "cancell_toast":" Okay, I remember you in a little while, ok?",
+   "is_web":"https://instagram.com/king_dishuu?utm_medium=copy_link",
+   "id":"insta3_",
+   "cancelable":"false"
+},
+{
+   "title":"Follow on Instagram",
+   "description":"Do you use Instagram? Follow my Instagram =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"maybe later",
+   "ok_toast":" I'll follow back =)",
+   "cancell_toast":" Okay, I remember you in a little while, ok?",
+   "is_web":"https://instagram.com/king_dishuu?utm_medium=copy_link",
+   "id":"insta4_",
+   "cancelable":"false"
+},
+{
+   "title":"Follow on Instagram",
+   "description":"Do you use Instagram? Follow my Instagram =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"maybe later",
+   "ok_toast":" I'll follow back =)",
+   "cancell_toast":" Okay, I remember you in a little while, ok?",
+   "is_web":"https://instagram.com/king_dishuu?utm_medium=copy_link",
+   "id":"insta5_",
+   "cancelable":"false"
+},
+{
+   "title":"Follow on Instagram",
+   "description":"Do you use Instagram? Follow my Instagram =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"maybe later",
+   "ok_toast":" I'll follow back =)",
+   "cancell_toast":" Okay, I remember you in a little while, ok?",
+   "is_web":"https://instagram.com/king_dishuu?utm_medium=copy_link",
+   "id":"insta6_",
+   "cancelable":"false"
+},
+{
+
+   "title":"Follow on Instagram",
+
+   "description":"Did you know that my developer is Sri Lankan and you can talk to him through the isntagram ? Follow! =)",
+
+   "request":"null",
+
+   "type":"official",
+
+   "ok":"seguir",
+
+   "cancell":"maybe later",
+
+   "ok_toast":" I'll follow back =)",
+
+   "cancell_toast":" Okay, I remember you in a little while, ok?",
+
+   "is_web":"https://instagram.com/king_dishuu?utm_medium=copy_link",
+
+   "id":"insta_",
+
+   "cancelable":"false"
+
+}]
+
+   
